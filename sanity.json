@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "vercel-template-blog-studio"
-  },
   "api": {
-    "projectId": "YOUR_PROJECT_ID",
-    "dataset": "YOUR_DATASET_NAME"
+    "projectId": "05pzwsze",
+    "dataset": "production"
+  },
+  "project": {
+    "name": "Sanity"
   },
   "plugins": [
     "@sanity/base",
